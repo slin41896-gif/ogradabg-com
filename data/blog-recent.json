@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-30",
+      "excerpt": "```json",
+      "imageUrl": "https://pixabay.com/get/g210ca6c7e98e50cd1e38d4196783726c7a0ac728b8ba77f151e9ecfe373c0568c916344b4214c80c20006d60503dd24d_640.jpg"
+    },
+    {
       "slug": "hkjc-win-place-odds-analysis",
       "title": "香港賽馬會獨贏與位置賠率的運作原理及差異解析",
       "category": "undefined",

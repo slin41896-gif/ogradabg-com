@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "horse-form-analysis-race-prediction",
+      "title": "從馬匹過往戰績數據分析當日競賽表現的研究方法與應用",
+      "category": "undefined",
+      "date": "2026-05-30",
+      "excerpt": "我哋馬迷最想知，究竟點樣先可以從海量嘅馬匹數據度，搵到贏馬嘅秘密？今日就同大家拆解！",
+      "imageUrl": "https://pixabay.com/get/g5b6f18a1f3f9768af177bad26d5089696c88dab5377ef83f583b366a258269ed9495ffe55640e452fb3114406489a3452d7b7d74beafb2b4b5830d586a309caf_640.jpg"
+    },
+    {
       "slug": "article",
       "title": "article",
       "category": "General",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "每次睇馬，獨贏同位置賠率都係我最關心嘅數字，究竟佢哋點樣影響我哋嘅投注策略？今日就同大家深入拆解！",
       "imageUrl": "https://pixabay.com/get/g39bf38649ed10a20074a885c997e54ba543f04abba9a27355b377cf10759d2cd998a9920a7429550c4b6fef72270edcd58917a65a6bdcef8386676a91cbf7cdc_640.jpg"
-    },
-    {
-      "slug": "article",
-      "title": "article",
-      "category": "General",
-      "date": "2026-05-29",
-      "excerpt": "```json",
-      "imageUrl": "https://pixabay.com/get/gf1b4ae10ecd8a1107a4da6e1aa6e4fe9daa2701597e0ba233dbba221a849b84c07a97d591788a80f3b1c0e45a2bd392e2312bf1a842baeb58e0facbdf7313515_640.jpg"
     }
   ]
 }

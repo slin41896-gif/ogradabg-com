@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "jockey-impact-hk-racing-analysis",
+      "title": "騎師因素在香港賽馬分析中的權重評估與實證研究",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "每次買馬，你係咪都會睇騎師？我哋一齊深入探討，到底騎師對香港賽事勝負影響有幾大！",
+      "imageUrl": "https://pixabay.com/get/gf005706588c0a4f3f5c51be932712e757f9bb73ab85186b25c4ff81918a9a450b8ef102a77bccccf1b85f4212bdd47509e103c3d6785cc7283e7df93c0216b6a_640.jpg"
+    },
+    {
       "slug": "trainer-win-rate-analysis-hkjc",
       "title": "練馬師勝率數據解析：專業彩迷如何運用統計指標優化選馬決策",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "每次睇馬，我都好奇點解有啲馬一去跑馬地就脫胎換骨，但轉番沙田就無影？今日就同大家深入探討呢個謎團！",
       "imageUrl": "https://pixabay.com/get/g1fb4a20ccf143f44c79beefd3128c4ec56a2fba928f0920c938804b6f3df00b37648202561c05bb35351ce9a591ebb34084f6e3d1a13500ecb9e59a66956b523_640.jpg"
-    },
-    {
-      "slug": "horse-form-analysis-race-prediction",
-      "title": "從馬匹過往戰績數據分析當日競賽表現的研究方法與應用",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "我哋馬迷最想知，究竟點樣先可以從海量嘅馬匹數據度，搵到贏馬嘅秘密？今日就同大家拆解！",
-      "imageUrl": "https://pixabay.com/get/g5b6f18a1f3f9768af177bad26d5089696c88dab5377ef83f583b366a258269ed9495ffe55640e452fb3114406489a3452d7b7d74beafb2b4b5830d586a309caf_640.jpg"
     }
   ]
 }

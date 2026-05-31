@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "trainer-win-rate-analysis-hkjc",
+      "title": "練馬師勝率數據解析：專業彩迷如何運用統計指標優化選馬決策",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "作為資深馬迷，我深明練馬師數據嘅重要性。想提升命中率？練馬師勝率絕對係不可忽視嘅關鍵！",
+      "imageUrl": "https://pixabay.com/get/g459f6843f124dc32ce40f93b5175b252ce72017fadf9f6a238a92b97d54ef1a23249d2ffbbc5db84d1d62225e9088e83a5246af851d8f12d81efe3a8d25c6601_640.jpg"
+    },
+    {
       "slug": "happy-valley-shatin-track-adaptability-analysis",
       "title": "剖析馬匹在跑馬地勝出率高於沙田的賽道適應性因素",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "我哋馬迷最想知，究竟點樣先可以從海量嘅馬匹數據度，搵到贏馬嘅秘密？今日就同大家拆解！",
       "imageUrl": "https://pixabay.com/get/g5b6f18a1f3f9768af177bad26d5089696c88dab5377ef83f583b366a258269ed9495ffe55640e452fb3114406489a3452d7b7d74beafb2b4b5830d586a309caf_640.jpg"
-    },
-    {
-      "slug": "article",
-      "title": "article",
-      "category": "General",
-      "date": "2026-05-30",
-      "excerpt": "```json",
-      "imageUrl": "https://pixabay.com/get/g210ca6c7e98e50cd1e38d4196783726c7a0ac728b8ba77f151e9ecfe373c0568c916344b4214c80c20006d60503dd24d_640.jpg"
     }
   ]
 }

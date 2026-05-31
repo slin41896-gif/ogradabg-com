@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "happy-valley-shatin-track-adaptability-analysis",
+      "title": "剖析馬匹在跑馬地勝出率高於沙田的賽道適應性因素",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "每次睇馬，我都好奇點解有啲馬一去跑馬地就脫胎換骨，但轉番沙田就無影？今日就同大家深入探討呢個謎團！",
+      "imageUrl": "https://pixabay.com/get/g1fb4a20ccf143f44c79beefd3128c4ec56a2fba928f0920c938804b6f3df00b37648202561c05bb35351ce9a591ebb34084f6e3d1a13500ecb9e59a66956b523_640.jpg"
+    },
+    {
       "slug": "horse-form-analysis-race-prediction",
       "title": "從馬匹過往戰績數據分析當日競賽表現的研究方法與應用",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "```json",
       "imageUrl": "https://pixabay.com/get/g210ca6c7e98e50cd1e38d4196783726c7a0ac728b8ba77f151e9ecfe373c0568c916344b4214c80c20006d60503dd24d_640.jpg"
-    },
-    {
-      "slug": "hkjc-win-place-odds-analysis",
-      "title": "香港賽馬會獨贏與位置賠率的運作原理及差異解析",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "每次睇馬，獨贏同位置賠率都係我最關心嘅數字，究竟佢哋點樣影響我哋嘅投注策略？今日就同大家深入拆解！",
-      "imageUrl": "https://pixabay.com/get/g39bf38649ed10a20074a885c997e54ba543f04abba9a27355b377cf10759d2cd998a9920a7429550c4b6fef72270edcd58917a65a6bdcef8386676a91cbf7cdc_640.jpg"
     }
   ]
 }
